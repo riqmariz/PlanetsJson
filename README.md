@@ -10,6 +10,8 @@ PlanetsJsons: É o conjunto de planetas (não precisa mexer aqui)
 
 "planet": É o nome do Planeta (A1, A2, ... , B12. Não temos tempo para mudar o nome dos planetas, pelo menos não nesse JSON format, exatamente, então manter padrão de A1, até B12, por favor.)
 
+"Orbit": Número equivalente a orbita do planeta (que no caso talvez nem precise mexer, mas to colocando aqui)
+
 "x": posição x do planeta (utilizar ponto no lugar de vírgula, se necessário usar decimal)
 
 "y": posição y do planeta (utilizar ponto no lugar de vírgula, se necessário usar decimal)
