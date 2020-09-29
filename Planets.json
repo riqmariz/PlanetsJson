@@ -1,4 +1,7 @@
 {
+    "zoomMin": 8.300000190734864,
+    "zoomMax": 11.800000190734864,
+    "sensibility": 0.009999999776482582,
     "constantPixel": 1000,
     "planetsJsons": [
         {
