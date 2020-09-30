@@ -16,9 +16,11 @@ Explicação:
 
 PlanetsJsons: É o conjunto de planetas (não precisa mexer aqui)
 
-"planet": É o nome do Planeta (A1, A2, ... , B12. Não temos tempo para mudar o nome dos planetas, pelo menos não nesse JSON format, (quando for necessário editar o nome de todos planetas falar comigo pessoalmente), exatamente, então manter padrão de A1, até B12, por favor. Usar CAPS)
+"id": É o identificador do planeta para poder carregar as informações. Planeta (A1, ...,A7,B1, ... , B12. manter padrão de A1, até B12, por favor. Usar CAPS)
 
-"Orbit": Número equivalente a orbita do planeta (que no caso talvez nem precise mexer, mas to colocando aqui)
+"planetName": É o nome do planeta que aparecerá no jogo. Por exemplo, ao por "planetName":Zorgon. O planeta com o Identificador correspondente, na verdade, aparecerá como: Zorgon, apesar de por debaixo dos panos ser utilizado o identificador para referenciar o planeta.
+
+"orbit": Número equivalente a orbita do planeta (que no caso talvez nem precise mexer, mas to colocando aqui)
 
 "altura": é a altura da resolução do planeta, caso queira mudar o tamanho dos planetas. (atualmente é 180(altura)x180(largura))
 
