@@ -5,8 +5,9 @@
     "constantPixel": 1000,
     "planetsJsons": [
         {
-            "planet": "B6",
-            "Orbit": 2,
+            "id": "B6",
+            "planetName": "Planet 0",
+            "orbit": 2,
             "x": 0.0,
             "y": 4.0,
             "largura": 180.0,
@@ -16,8 +17,9 @@
             "n": 0.20000000298023225
         },
         {
-            "planet": "A4",
-            "Orbit": 1,
+            "id": "A4",
+            "planetName": "Planet 1",
+            "orbit": 1,
             "x": -1.0,
             "y": -2.0,
             "largura": 180.0,
@@ -27,8 +29,9 @@
             "n": 0.4000000059604645
         },
         {
-            "planet": "A6",
-            "Orbit": 1,
+            "id": "A6",
+            "planetName": "Planet 2",
+            "orbit": 1,
             "x": -2.5,
             "y": -1.0,
             "largura": 180.0,
@@ -38,8 +41,9 @@
             "n": 0.20000000298023225
         },
         {
-            "planet": "A7",
-            "Orbit": 1,
+            "id": "A7",
+            "planetName": "Planet 3",
+            "orbit": 1,
             "x": -3.5,
             "y": 1.0,
             "largura": 180.0,
@@ -49,8 +53,9 @@
             "n": 0.30000001192092898
         },
         {
-            "planet": "A3",
-            "Orbit": 1,
+            "id": "A3",
+            "planetName": "Planet 4",
+            "orbit": 1,
             "x": 0.5,
             "y": -1.0,
             "largura": 180.0,
@@ -60,8 +65,9 @@
             "n": 0.10000000149011612
         },
         {
-            "planet": "B7",
-            "Orbit": 2,
+            "id": "B7",
+            "planetName": "Planet 5",
+            "orbit": 2,
             "x": 1.5,
             "y": 6.0,
             "largura": 180.0,
@@ -71,8 +77,9 @@
             "n": 0.30000001192092898
         },
         {
-            "planet": "B5",
-            "Orbit": 2,
+            "id": "B5",
+            "planetName": "Planet 6",
+            "orbit": 2,
             "x": -0.5,
             "y": 5.0,
             "largura": 180.0,
@@ -82,8 +89,9 @@
             "n": 0.0
         },
         {
-            "planet": "B9",
-            "Orbit": 2,
+            "id": "B9",
+            "planetName": "Planet 7",
+            "orbit": 2,
             "x": 3.5,
             "y": 3.0,
             "largura": 180.0,
@@ -93,8 +101,9 @@
             "n": 0.30000001192092898
         },
         {
-            "planet": "B10",
-            "Orbit": 2,
+            "id": "B10",
+            "planetName": "Planet 8",
+            "orbit": 2,
             "x": 5.5,
             "y": 1.0,
             "largura": 180.0,
@@ -104,8 +113,9 @@
             "n": 0.30000001192092898
         },
         {
-            "planet": "B8",
-            "Orbit": 2,
+            "id": "B8",
+            "planetName": "Planet 9",
+            "orbit": 2,
             "x": 2.5,
             "y": 5.0,
             "largura": 180.0,
@@ -115,8 +125,9 @@
             "n": 0.30000001192092898
         },
         {
-            "planet": "B12",
-            "Orbit": 2,
+            "id": "B12",
+            "planetName": "Planet 10",
+            "orbit": 2,
             "x": 1.5,
             "y": -5.0,
             "largura": 180.0,
@@ -126,8 +137,9 @@
             "n": 0.30000001192092898
         },
         {
-            "planet": "A5",
-            "Orbit": 1,
+            "id": "A5",
+            "planetName": "Planet 11",
+            "orbit": 1,
             "x": -2.0,
             "y": 0.0,
             "largura": 180.0,
@@ -137,8 +149,9 @@
             "n": 0.0
         },
         {
-            "planet": "B4",
-            "Orbit": 2,
+            "id": "B4",
+            "planetName": "Planet 12",
+            "orbit": 2,
             "x": -3.5,
             "y": 7.0,
             "largura": 180.0,
@@ -148,8 +161,9 @@
             "n": 0.4000000059604645
         },
         {
-            "planet": "A2",
-            "Orbit": 1,
+            "id": "A2",
+            "planetName": "Planet 13",
+            "orbit": 1,
             "x": -0.5,
             "y": -1.0,
             "largura": 180.0,
@@ -159,8 +173,9 @@
             "n": 0.20000000298023225
         },
         {
-            "planet": "B11",
-            "Orbit": 2,
+            "id": "B11",
+            "planetName": "Planet 14",
+            "orbit": 2,
             "x": 7.0,
             "y": 2.0,
             "largura": 180.0,
@@ -170,8 +185,9 @@
             "n": 0.30000001192092898
         },
         {
-            "planet": "A1",
-            "Orbit": 1,
+            "id": "A1",
+            "planetName": "Planet 15",
+            "orbit": 1,
             "x": 0.0,
             "y": 0.0,
             "largura": 180.0,
@@ -181,8 +197,9 @@
             "n": 0.20000000298023225
         },
         {
-            "planet": "B1",
-            "Orbit": 2,
+            "id": "B1",
+            "planetName": "Planet 16",
+            "orbit": 2,
             "x": -5.0,
             "y": 0.0,
             "largura": 180.0,
@@ -192,8 +209,9 @@
             "n": 0.20000000298023225
         },
         {
-            "planet": "B3",
-            "Orbit": 2,
+            "id": "B3",
+            "planetName": "Planet 17",
+            "orbit": 2,
             "x": -4.5,
             "y": 3.0,
             "largura": 180.0,
@@ -203,8 +221,9 @@
             "n": 0.10000000149011612
         },
         {
-            "planet": "B2",
-            "Orbit": 2,
+            "id": "B2",
+            "planetName": "Planet 18",
+            "orbit": 2,
             "x": -5.5,
             "y": 1.0,
             "largura": 180.0,
