@@ -20,6 +20,10 @@ PlanetsJsons: É o conjunto de planetas (não precisa mexer aqui)
 
 "Orbit": Número equivalente a orbita do planeta (que no caso talvez nem precise mexer, mas to colocando aqui)
 
+"altura": é a altura da resolução do planeta, caso queira mudar o tamanho dos planetas. (atualmente é 180(altura)x180(largura))
+
+"largura": é a largura da resolução do planeta, caso queira mudar o tamanho dos planetas. (atualmente é 180(altura)x180(largura))
+
 "x": posição x do planeta (se necessário usar decimal)
 
 "y": posição y do planeta (se necessário usar decimal)
